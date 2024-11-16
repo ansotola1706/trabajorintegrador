@@ -1,0 +1,29 @@
+body{
+    background-image:url(img_tp/fondo1.jpg);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+h1{
+    text-align:start; 
+    font-family: "Almendra SC", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+padding-left: 30px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 25px;
+}
+ul{
+    padding-left: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.noti{
+    width: 1330px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.infomia{
+    text-align: right;
+}

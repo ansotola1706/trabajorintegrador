@@ -1,0 +1,39 @@
+header{
+    background-image: radial-gradient(yellow , #dc63b1);
+    padding-left: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25xp;
+   
+}
+h1{
+    padding-left: 700px;
+    padding-bottom: 30px;
+    color:solid #97c9c4;
+    text-decoration:overline;
+}
+body{
+    background-image:url(imagenes/fondo1.jpg);
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.logo{
+    
+    width: 250px;
+    height: 140px;
+    padding-left: 40px;
+    padding-top: 25px;
+    
+}
+p{
+    padding-left: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+ul{
+    padding-left: 30px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+}
+.infomia{
+    text-align: right;
+}
